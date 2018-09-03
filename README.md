@@ -1,14 +1,13 @@
 # just-the-beginning
-Hello World Android app made for CodePath/.
-## NAME_OF_YOUR_APP_HERE
-Hello Aaron
+Hello World Android app made for CodePath.
+
+## Hello Aaron
+
 ### App Description
-`TODO://` Add app description
 In this app, the user can play around with different parts of the user interface including: changing the text dislayed with user input, changing the color of the text displayed, changing the background color, and resetting them to their resepctive defaults.
+
 ### App Walk-though
 <img src="http://recordit.co/sE0aKRb73m" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
