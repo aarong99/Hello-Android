@@ -7,7 +7,7 @@ Hello World Android app made for CodePath.
 In this app, the user can play around with different parts of the user interface including: changing the text dislayed with user input, changing the color of the text displayed, changing the background color, and resetting them to their resepctive defaults.
 
 ### App Walk-though
-<img src="http://recordit.co/sE0aKRb73m" width=200><br>
+<img src="http://g.recordit.co/sE0aKRb73m.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
